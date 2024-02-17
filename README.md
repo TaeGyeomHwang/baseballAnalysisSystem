@@ -1,2 +1,34 @@
-# baseballAnalysisSystem
-야구 데이터를 기반으로 한 선수 통계 분석 시스템
+![슬라이드1](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/29cb1d6d-7920-4382-92d8-98681465f589)
+![슬라이드2](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/0e205b83-8276-491d-b06f-1a377d5e8dc4)
+![슬라이드3](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/e433c841-e19c-4830-a02f-7b7aa58f87e3)
+![슬라이드4](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/773bb954-7be9-4330-b288-90c58b1f1238)
+![슬라이드5](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/c9fd1d2b-3139-4d8f-9bb9-646931ffe2a2)
+![슬라이드6](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/cb5fff6b-5f9c-438d-9c03-8ec4c14d6aec)
+![슬라이드7](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/ce9a2803-2985-4692-9c25-894878cb51e4)
+![슬라이드8](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/029b28a1-a270-4d4e-a933-9890e9f8a6d2)
+![슬라이드9](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/39405838-3e1c-4670-9edd-2efae33eb136)
+![슬라이드10](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/8683efc7-095e-4b8b-b3cd-f0ca7ec9fb77)
+![슬라이드11](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/407706b3-e6ab-4bef-9e19-13fdc4cff3b3)
+![슬라이드12](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/970e9d39-9ff1-449f-b4c8-6486f4b31985)
+![슬라이드13](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/36cd3827-56c9-4cdd-80a1-065b071d848b)
+![슬라이드14](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/60aac733-7865-4fab-b399-514bb9fe0221)
+![슬라이드15](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/f66071dc-6508-4faa-9c80-ebb874dbf0d2)
+![슬라이드16](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/d052bd58-0e15-408a-abea-ba1e9c148abc)
+![슬라이드17](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/37d676a6-5a4e-43a9-882c-e5b80ace3c1a)
+![슬라이드18](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/729a6cb0-5c9e-462b-aa63-4a5344487419)
+![슬라이드19](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/5da23ebc-7bef-45e3-b8e7-1f1c3715728d)
+![슬라이드20](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/5bca4d95-fdb2-4a94-8e22-c4b6166f96cd)
+![슬라이드21](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/08416e6c-c8a7-49cf-8340-c6780d1f3ef1)
+![슬라이드22](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/36f51789-6e5e-4d1f-9b0f-3de76ca96da8)
+![슬라이드23](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/e2851a2e-131e-4266-9505-16fb75668649)
+![슬라이드24](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/fc56e5a2-0595-40ee-8c52-cfade93d1027)
+![슬라이드25](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/7f956982-01b2-4148-83f4-ab581baf8289)
+![슬라이드26](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/d0b96ce7-f5e7-46fa-9450-61b8dadba361)
+![슬라이드27](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/ce2705b2-e96b-4bac-b7f8-805e032bd30b)
+
+
+https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/bb380008-746f-4e53-aa67-b7d00c37d1f9
+
+
+![슬라이드28](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/fba92f49-d5b4-4125-a989-ffea9b623cc2)
+![슬라이드29](https://github.com/TaeGyeomHwang/baseballAnalysisSystem/assets/80676211/710783b7-9350-4615-8c9a-15b0320640c7)
